@@ -1,0 +1,23 @@
+{
+  "created_utc": "2026-11-13T08:35:43.160969+00:00",
+  "generator": "generate_test_data.py",
+  "generator_seed": 103103,
+  "size_each_bytes": 10485760,
+  "files": [
+    {
+      "filename": "01_repetitive_text.bin",
+      "size_bytes": 10485760,
+      "sha256": "9f53b7e6466198db3ddb65cc505a8fef844b7d6f35deed5cc4662ab8599f51a2"
+    },
+    {
+      "filename": "02_mixed_application.bin",
+      "size_bytes": 10485760,
+      "sha256": "90e7b040e4560c42e11f269ccbc7fcdc565d4a221514d21963e51992738518d3"
+    },
+    {
+      "filename": "03_random_binary.bin",
+      "size_bytes": 10485760,
+      "sha256": "b1a6c0acf6764787a8851f619cd0e7f0ec128500f3341bbe07951d97e44991c5"
+    }
+  ]
+}
